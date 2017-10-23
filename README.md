@@ -2,7 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 [//]: # (Image References)
-[image1]: ./writeup_images/sample.jpg "Lane Lines"
+[image1]: ./writeup_images/sample.png "Vehicle Detection"
 
 ![alt text][image1]
 *Image captured from video created with this project's pipeline*
@@ -11,7 +11,7 @@
 https://github.com/rjlutz/CarND-Vehicle-Detection
 
 ## Submission Items
-[Write Up and Project Notebook](https://github.com/rjlutz/CarND-Advanced-Lane-Lines/blob/master/Advanced%20Lane%20Lines.ipynb "")
+[Write Up and Project Notebook](https://github.com/rjlutz/CarND-Vehicle-Detection/blob/master/Vehicle%20Detection%20and%20Tracking.ipynb "")
 
 ## Final Video
-[Final Video](https://www.dropbox.com/s/4ekmrmbw5xmwnle/advanced_lane_lines.mp4?dl=0 "Demo Video")
+[Final Video](https://www.dropbox.com/s/lw46zd3uowolw21/vehicle_detection.mp4?dl=0 "Demo Video")
